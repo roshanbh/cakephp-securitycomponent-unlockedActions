@@ -3,6 +3,6 @@ Added the unlockedActions featured on the Security Component of CakePHP 2.1. Thi
 http://book.cakephp.org/2.0/en/core-libraries/components/security-component.html
 
 Example
-__________
+----------------------------------
 
 $this->Security->unlockedActions('admin_edit','admin_uploadpic');
