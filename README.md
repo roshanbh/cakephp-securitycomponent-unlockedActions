@@ -4,5 +4,6 @@ http://book.cakephp.org/2.0/en/core-libraries/components/security-component.html
 
 Example
 ----------------------------------
-
+<pre>
 $this->Security->unlockedActions('admin_edit','admin_uploadpic');
+</pre>
